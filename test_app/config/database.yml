@@ -1,0 +1,21 @@
+production:
+   adapter: mysql2
+   database: test_app
+   host: db
+   username: curso_rails
+   password: "123"
+   encoding: utf8
+development:
+   adapter: mysql2
+   database: test_app
+   host: db
+   username: curso_rails
+   password: "123"
+   encoding: utf8
+test:
+   adapter: mysql2
+   database: test_app
+   host: db
+   username: curso_rails
+   password: "123"
+   encoding: utf8

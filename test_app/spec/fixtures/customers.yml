@@ -1,0 +1,9 @@
+# Dados falses de teste.
+# OBS.: Atualmente essa forma de criar dados de teste está desatualizada.
+gandalf:
+  name: Gandalf
+  email: gandalf@gmail.com
+
+morgoth:
+  name: Morgoth
+  email: morgoth@gmail.com
